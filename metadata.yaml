@@ -1,0 +1,29 @@
+_repo: Progress-of-Western-Education-in-China-and-Siam_44614
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: United States. Bureau of Education
+    aliases:
+    - United States. Department of the Interior. Bureau of Education
+    - United States. Board of Education
+    gutenberg_agent_id: '42775'
+    url: http://www.gutenberg.org/2009/agents/42775
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2014-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44614'
+  lccn: '11003223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education -- China'
+- !lcc 'LA'
+- !lcsh 'Education -- Thailand'
+title: Progress of Western Education in China and Siam
+url: http://www.gutenberg.org/ebooks/44614

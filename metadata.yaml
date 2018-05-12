@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44614#Progress-of-Western-Education-in-China-and-Siam
 gutenberg_issued: '2014-01-07'
 gutenberg_type: Text
 identifiers:
